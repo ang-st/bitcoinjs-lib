@@ -102,5 +102,6 @@ module.exports = {
   makeRandom,
   fromPrivateKey,
   fromPublicKey,
-  fromWIF
+  fromWIF,
+  ECPair
 }
